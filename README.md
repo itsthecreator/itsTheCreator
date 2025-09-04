@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋 I'm Eliel — aka **itsTheCreator**.<br><br>🎓 I'm a Mobile and Web Dev enthusiast, and future AI engineer.  <br>🚀 I build mobile apps, automate workflows, and create digital tools that solve real problems.  <br>🌍 Based in Burkina Faso, working globally.<br><br>> *"Code it. Launch it. Improve it."*</h2>
+<h2 align="left">I'm Eliel Yankiné — aka **ElielSolver**.<br><br>🎓 I'm a Mobile and Web Dev enthusiast, and future AI engineer.  <br>🚀 I build mobile apps and create digital tools that solve real problems.  <br>🌍 Based in Burkina Faso, working globally.<br><br>> *"Code it. Launch it. Improve it."*</h2>
 
 ###
 
