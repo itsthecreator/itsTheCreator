@@ -1,4 +1,4 @@
-<h2 align="left">I'm Eliel Yankiné — aka **ElielSolver**.<br><br>🎓 I'm a Mobile and Web Dev enthusiast, and future AI engineer.  <br>🚀 I build mobile apps and create digital tools that solve real problems.  <br>🌍 Based in Burkina Faso, working globally.<br><br>> *"Code it. Launch it. Improve it."*</h2>
+<h2 align="left">I'm Eliel Yankiné — aka **ElielSolver**.<br><br> I'm a Mobile and Web Dev, and AI engineer.  <br> I build mobile apps and create digital tools that solve real problems.  <br> Based in Burkina Faso, working globally.</h2>
 
 ###
 
@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="53" alt="spring logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="53" alt="canva logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="53" alt="mongodb logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="53" alt="mysql logo"  />
   <img width="16" />
